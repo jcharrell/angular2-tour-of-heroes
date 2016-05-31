@@ -18,7 +18,7 @@ import { HeroService } from './hero.service';
         </nav>
         <router-outlet></router-outlet>
     `,
-    styles:[``]
+    styleUrls:['app/app.component.css']
 })
 
 @RouteConfig([
