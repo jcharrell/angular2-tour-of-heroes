@@ -13,6 +13,6 @@ export class InMemoryDataService {
             { "id": 20, "name": "Tornado" }
         ];
 
-        return heroes;
+        return { heroes };
     }
 }
