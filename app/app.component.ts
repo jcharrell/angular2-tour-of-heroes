@@ -41,5 +41,5 @@ import { HeroService } from './hero.service';
 ])
 
 export class AppComponent {
-    title: 'Tour of Heroes'
+    title = 'Tour of Heroes'
 }
